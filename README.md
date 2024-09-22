@@ -1,2 +1,2 @@
-# AuditEase-Pro-Binaries
-AuditEase Pro developed by Paras OSP
+# AuditEase-Pro Binaries
+AuditEase Pro as developed by Praman Kasliwal (under the guidance of [Paras OSP](https://www.parasosp.com/))
